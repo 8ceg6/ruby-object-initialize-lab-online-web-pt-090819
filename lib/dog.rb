@@ -3,8 +3,5 @@ class Dog
     def initalize(name)
       @name= name
     end 
-    def initalize(breed = "Mutt")
-        @breed
-      end
-
+   
 end
